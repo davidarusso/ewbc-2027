@@ -9,7 +9,7 @@ header:
 excerpt: "Join us for the 13th European Workshop on the Biology of Cyanobacteria | September 14-17 ❘ Leipzig, Germany"
 ---
 
-## Welcome to EWBC 2027
+## Welcome to the EWBC 2027
 
 The 13<sup>th</sup> European Workshop on the Molecular Biology of Cyanobacteria will be held in Leipzig, Germany, from September 14<sup>th</sup> to 17<sup>th</sup>, 2027. 
 {: .text-justify}

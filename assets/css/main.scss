@@ -1,0 +1,13 @@
+SCSS
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+@media (min-width: 64em) {
+  .page {
+    width: 100%;
+    padding-right: 0;
+  }
+}

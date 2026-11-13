@@ -1,14 +1,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Committees"
-    url: /committees/
   - title: "Program & Speakers"
     url: /program/
   - title: "Venue & Travel"
     url: /venue/
   - title: "Registration"
     url: https://your-external-registration-link.com
+  - title: "Committees"
+    url: /committees/
   - title: "Sponsors"
     url: /sponsors/
   - title: "Contact"

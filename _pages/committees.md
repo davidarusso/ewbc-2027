@@ -5,7 +5,7 @@ permalink: /committees/
 
 ## Local Organising Committee
 
-| **Ralf Steuer** (Chair) | Leipzig University |
+| **Ralf Steuer (Chair)** | Leipzig University |
 | **Ilka M. Axmann** | Heinrich Heine University Düsseldorf |
 | **Katja Bühler** | Helmholtz Centre for Environmental Research Leipzig |
 | **Marion Eisenhut** | Bielefeld University |

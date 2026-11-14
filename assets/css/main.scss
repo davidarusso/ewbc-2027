@@ -84,4 +84,10 @@ body {
   padding-top: 0.4em;
   padding-bottom: 0.4em;
   padding-left: 0;
+
+  /* Add horizontal spacing between column 1 and column 2 */
+.page__content th:first-child,
+.page__content td:first-child {
+  padding-right: 3em; /* increase or decrease (e.g., 2em, 4em) to adjust gap */
+}
 }

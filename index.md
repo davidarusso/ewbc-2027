@@ -1,11 +1,6 @@
 ---
 layout: splash
 permalink: /
-header:
-  overlay_image: /assets/images/banner.jpg
-  overlay_filter: 0.25
-  caption: "Photo: Host City / Venue"
-excerpt: "Join us for the 13<sup>th</sup> European Workshop on the Biology of Cyanobacteria ❘ September 14-17 ❘ Leipzig, Germany"
 ---
 
 ## Welcome to the EWBC 2027

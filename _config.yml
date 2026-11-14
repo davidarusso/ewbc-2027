@@ -84,6 +84,9 @@ footer:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/"
 
+atom_feed:
+  hide: true
+  
 defaults:
   # _posts
   - scope:

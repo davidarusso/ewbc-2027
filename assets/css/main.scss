@@ -15,23 +15,18 @@
   .greedy-nav a {
     margin: 0 0.65rem;
   }
-}
 
-/* Sticky top navigation bar */
-@media (min-width: 64em) {
-.masthead {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  background-color: #ffffff;
-}
+  /* Sticky top navigation bar on desktop */
+  .masthead {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #ffffff;
   }
+}
 
-/* Sticky, height-capped banner across all pages */
+/* Height-capped banner that scrolls away normally */
 .page__hero {
-  position: sticky;
-  top: 70px; /* sits directly below the sticky top nav bar */
-  z-index: 999;
   background-color: #ffffff;
   margin-bottom: 1.5em;
 }

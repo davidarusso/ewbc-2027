@@ -107,8 +107,7 @@ defaults:
       layout: splash
       author_profile: false
       header:
-        overlay_image: /assets/images/Julie Logo vorschlag 1.png
-        overlay_filter: 0.25
+        image: /assets/images/Julie Logo vorschlag 1.png
   # Homepage in root
   - scope:
       path: ""
@@ -118,8 +117,7 @@ defaults:
       author_profile: false
       header:
         overlay_image: /assets/images/Julie Logo vorschlag 1.png
-        overlay_filter: 0.25
-
+        
 category_archive:
   type: liquid
   path: /categories/

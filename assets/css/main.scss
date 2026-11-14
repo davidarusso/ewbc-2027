@@ -79,15 +79,22 @@ body {
   border-bottom: none !important;
 }
 
+.page__content table {
+  width: auto !important; /* stops the table from stretching 100% wide */
+}
+
 .page__content th,
 .page__content td {
-  padding-top: 0.4em;
-  padding-bottom: 0.4em;
-  padding-left: 0;
+  padding-top: 0.4em !important;
+  padding-bottom: 0.4em !important;
+  padding-left: 0 !important;
+}
 
-  /* Add horizontal spacing between column 1 and column 2 */
+/* Control exact horizontal gap between column 1 and column 2 */
 .page__content th:first-child,
 .page__content td:first-child {
-  padding-right: 5em; /* increase or decrease (e.g., 2em, 4em) to adjust gap */
+  padding-right: 4em !important; /* increase or decrease to adjust column spacing */
+  white-space: nowrap; /* keeps names on one line so the gap stays uniform */
+}
 }
 }

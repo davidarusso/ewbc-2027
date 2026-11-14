@@ -18,12 +18,14 @@
 }
 
 /* Sticky top navigation bar */
+@media (min-width: 64em) {
 .masthead {
   position: sticky;
   top: 0;
   z-index: 1000;
   background-color: #ffffff;
 }
+  }
 
 /* Slimmer, sticky banner across all pages */
 .page__hero--overlay {

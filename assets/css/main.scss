@@ -69,3 +69,19 @@ body {
 .page__footer a:hover {
   color: #000000 !important;
 }
+
+/* Remove horizontal row dividers and borders from Markdown tables */
+.page__content table,
+.page__content thead,
+.page__content th,
+.page__content td {
+  border: none !important;
+  border-bottom: none !important;
+}
+
+.page__content th,
+.page__content td {
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  padding-left: 0;
+}

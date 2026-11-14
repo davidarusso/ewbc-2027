@@ -15,18 +15,27 @@
   .greedy-nav a {
     margin: 0 0.65rem;
   }
-
-  /* Sticky top navigation bar on desktop */
-  .masthead {
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-    background-color: #ffffff;
-  }
 }
 
-/* Height-capped banner that scrolls away normally */
+/* Fixed top navigation bar on BOTH desktop and mobile */
+.masthead {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #ffffff;
+  border-bottom: 1px solid #eeeeee;
+}
+
+/* Push page content down so the fixed top bar doesn't overlap the banner */
+body {
+  padding-top: 72px;
+}
+
+/* Height-capped banner that ALWAYS scrolls away (desktop and mobile) */
 .page__hero {
+  position: static !important;
   background-color: #ffffff;
   margin-bottom: 1.5em;
 }

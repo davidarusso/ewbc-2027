@@ -37,8 +37,9 @@
 }
 
 .page__hero-image {
-  width: 100%;
-  max-height: 80px; /* adjust this pixel value to control banner height */
+  width: auto !important;
+  max-width: 100% !important;
+  height: 100px !important; /* change 150px to whatever height you want */
   object-fit: contain; /* keeps the entire graphic and text uncropped */
   display: block;
   margin: 0 auto;

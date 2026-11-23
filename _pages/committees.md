@@ -17,4 +17,12 @@ permalink: /committees/
 
 ## International Scientific Committee
 
-...
+| **Yagut Allahverdiyeva-Rinne** | Finland |
+| **Min Chen** | Australia |
+| **María F. Fillatr** | Spain |
+| **Josef Komenda** | Czech Republic |
+| **Luning Liu** | UK |
+| **Conrad Mullineaux** | UK |
+| **Paula Tamagnini** | Portugal |
+| **Wim Vermaas** | USA |
+| **Annegret Wilde** | Germany |

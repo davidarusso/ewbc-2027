@@ -109,7 +109,7 @@ defaults:
       layout: splash
       author_profile: false
       header:
-        image: /assets/images/Julie Logo vorschlag 1.png
+        image: /assets/images/LogoBannerMulticolour.png
   # Homepage in root
   - scope:
       path: ""
@@ -118,7 +118,7 @@ defaults:
       layout: splash
       author_profile: false
       header:
-        image: /assets/images/Julie Logo vorschlag 1.png
+        image: /assets/images/LogoBannerMulticolour.png
         
 category_archive:
   type: liquid

@@ -109,7 +109,7 @@ defaults:
       layout: splash
       author_profile: false
       header:
-        image: /assets/images/LogoBannerMulticolour.png
+        image: /assets/images/LogoEWBC_alternativ.png
   # Homepage in root
   - scope:
       path: ""
@@ -118,7 +118,7 @@ defaults:
       layout: splash
       author_profile: false
       header:
-        image: /assets/images/LogoBannerMulticolour.png
+        image: /assets/images/LogoEWBC_alternativ.png
         
 category_archive:
   type: liquid

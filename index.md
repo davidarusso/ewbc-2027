@@ -11,9 +11,8 @@ Building on a long-standing tradition of the EWBC, the Local Organizing Committe
 {: .text-justify}
 
 ### Important Dates
+* **Registration Opens:** TBD, 2027
 * **Abstract Submission Opens:** TBD, 2027
-* **Abstract Deadline:** TBD, 2027
-* **Conference Dates:** TBD, 2027
 
 <!--
 [Register Now](https://your-registration-link.com){: .btn .btn--primary .btn--large}

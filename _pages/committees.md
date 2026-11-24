@@ -19,7 +19,7 @@ permalink: /committees/
 
 | **Yagut Allahverdiyeva-Rinne** | Finland |
 | **Min Chen** | Australia |
-| **María F. Fillatr** | Spain |
+| **María F. Fillat** | Spain |
 | **Josef Komenda** | Czech Republic |
 | **Luning Liu** | UK |
 | **Conrad Mullineaux** | UK |

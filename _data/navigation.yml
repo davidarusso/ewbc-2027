@@ -5,11 +5,11 @@ main:
     url: /program/
   - title: "Venue & Travel"
     url: /venue/
-  - title: "Registration"
-    url: https://your-external-registration-link.com
+  #- title: "Registration"
+  #  url: https://your-external-registration-link.com
   - title: "Committees"
     url: /committees/
-  - title: "Sponsors"
-    url: /sponsors/
+  #- title: "Sponsors"
+  #  url: /sponsors/
   - title: "Contact"
     url: /contact/

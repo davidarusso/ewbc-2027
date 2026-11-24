@@ -77,14 +77,14 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky"
-      url: "https://bsky.app/"
+#footer:
+  #links:
+   # - label: "Twitter"
+   #   icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+   # - label: "Bluesky"
+    #  icon: "fab fa-fw fa-bluesky"
+     # url: "https://bsky.app/"
 
 atom_feed:
   hide: true
